@@ -2,3 +2,11 @@ body {
     background-color: skyblue;
     font-family: "Roboto", sans-serif;
   }
+.lgnform {
+    Border: 1px solid black;
+    Align-item: center;
+  }
+.sgnform {
+    Border: 1px solid black;
+    Align-item: center;
+  }
